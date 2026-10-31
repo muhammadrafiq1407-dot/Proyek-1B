@@ -1,0 +1,3 @@
+# Tidak ada dependensi eksternal wajib (Menggunakan modul standar Python 3.10+)
+# Untuk eksekusi test runner opsional:
+pytest>=7.0.0
